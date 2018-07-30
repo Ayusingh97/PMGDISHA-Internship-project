@@ -1,0 +1,2 @@
+# PMGDISHA-Internship-project
+Worked as an intern at CSC e-Governance Services India Limited,Ministry of Electronics and Information Technology, Government of India under PMGDISHA Scheme,world's largest initiative for digital literacy where i analyzed the data in respect of states/districts/panchayats using R Language and visualised it using Android App so that a triggered approach could be explored for achieving the targets envisaged across the states.
